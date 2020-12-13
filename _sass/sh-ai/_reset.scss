@@ -30,7 +30,7 @@ html {
 body {
   margin: 0;
   scrollbar-width: thin;          /* "auto" or "thin" */
-  scrollbar-color: #346B80 #ffffff;   /* scroll thumb and track */
+  scrollbar-color: #D6E1E6 #ffffff;   /* scroll thumb and track */
   
   &::-webkit-scrollbar {
     width: 12px;
@@ -39,7 +39,7 @@ body {
     background: #F3F2F4;
   }
   &::-webkit-scrollbar-thumb {
-    background-color: #346B80;
+    background-color: #D6E1E6;
     border-radius: 20px;
     border: 3px solid #ffffff;
   }

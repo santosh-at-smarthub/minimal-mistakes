@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Privacy Policy"
 permalink: /docs/privacy-policy/
 excerpt: "SmartHub Privacy Policy"
 last_modified_at: September 21, 2020
