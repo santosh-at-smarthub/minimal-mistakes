@@ -103,7 +103,8 @@ body {
 		&:hover .header-link {
 			opacity: 1;
 		}
-	}
+  }
+  
 
   p,
   li,
@@ -556,4 +557,8 @@ body {
       padding-right: 0;
     }
   }
+}
+
+.toc__menu li {
+  font-size: 1em;
 }
