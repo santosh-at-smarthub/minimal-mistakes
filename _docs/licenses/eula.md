@@ -1,18 +1,18 @@
 ---
-title: "EULA"
+title: "End User License Agreement"
 permalink: /docs/eula/
-excerpt: "END USER LICENSE AGREEMENT"
+excerpt: "SMARTHUB END USER LICENSE AGREEMENT"
 last_modified_at: 2020-07-27
 toc: true
 ---
 
-**SMARTHUB END USER LICENSE AGREEMENT**
-
-PLEASE NOTE THAT THE TERMS OF THIS END USER LICENSE AGREEMENT SHALL  GOVERN YOUR USE OF THE SOFTWARE, REGARDLESS OF ANY TERMS THAT MAY APPEAR DURING THE INSTALLATION OF THE SOFTWARE.
+**NOTE:**
+THE TERMS OF THIS END USER LICENSE AGREEMENT SHALL  GOVERN YOUR USE OF THE SOFTWARE, REGARDLESS OF ANY TERMS THAT MAY APPEAR DURING THE INSTALLATION OF THE SOFTWARE.
+{: .notice--warning }
 
 **IMPORTANT-READ CAREFULLY:** 
-
-BY DOWNLOADING, INSTALLING, OR USING THE SOFTWARE, YOU (THE INDIVIDUAL OR LEGAL ENTITY) AGREE TO BE BOUND BY THE TERMS OF THIS END USER LICENSE AGREEMENT ("EULA"). IF YOU DO NOT AGREE TO THE TERMS OF THIS EULA, YOU MUST NOT DOWNLOAD, INSTALL, OR USE THE SOFTWARE, AND YOU MUST DELETE OR RETURN THE UNUSED SOFTWARE TO THE VENDOR FROM WHICH YOU ACQUIRED IT WITHIN THIRTY (30) DAYS AND REQUEST A REFUND OF THE LICENSE FEE, IF ANY, THAT YOU PAID FOR THE SOFTWARE.
+By downloading, installing, or using the software, you (the individual or legal entity) agree to be bound by the terms of this end user license agreement (“EULA”). If you do not agree to the terms of this EULA, you must not download, install, or use the software, and you must delete or return the unused software to the vendor from which you acquired it within thirty (30) days and request a refund of the license fee if any, that you paid for the software.
+{: .notice--info }
 
 **EVALUATION LICENSE** 
 

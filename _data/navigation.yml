@@ -10,13 +10,20 @@ docs:
     children:
       - title: "2020.09"
         url: /docs/release-notes/2020_09/
+  - title: "Compatibility"
+    children:
       - title: "Edge Gateways"
         url: /docs/compatibility/edge_gateways/
       - title: "Embedded Systems"
         url: /docs/compatibility/embedded-systems/
   - title: LICENSES
     children:
-      - title: "Eula"
+      - title: "eula"
         url: /docs/eula/
+  - title: META
+    children:
+      - title: "Privacy Policy"
+        url: /docs/privacy-policy/
+        
 
         

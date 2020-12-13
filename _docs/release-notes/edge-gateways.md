@@ -8,9 +8,9 @@ toc: true
 
 INFER IoT Center is an end-to-end IoT infrastructure management solution that enables both OT and IT staff in organizations to have complete visibility and control of their IoT use cases including onboarding, configuring, monitoring, managing and securing the IoT Edge Systems (gateways) and connected devices.
 
-**Read Important Support Information below:**
-
+**Read Important Support Information:**
 The SmartHub INFER Compatibility Guide shows the certification status of partner gateways against releases of Pulse IoT Center for the following versions of INFER IoT Center 3.x and later.
+{: .notice--warning}
 
 **Note:**  
 
