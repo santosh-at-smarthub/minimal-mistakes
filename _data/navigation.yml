@@ -18,12 +18,16 @@ docs:
         url: /docs/compatibility/embedded-systems/
   - title: LICENSES
     children:
-      - title: "eula"
+      - title: "Eula"
         url: /docs/eula/
+      - title: "Open Source"
+        url: /docs/open-source/
   - title: META
     children:
       - title: "Privacy Policy"
         url: /docs/privacy-policy/
+      - title: "Support Policies"
+        url: /docs/support-policies/
         
 
         
