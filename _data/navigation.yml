@@ -16,13 +16,13 @@ docs:
         url: /docs/compatibility/edge_gateways/
       - title: "Embedded Systems"
         url: /docs/compatibility/embedded-systems/
-  - title: LICENSES
+  - title: "Licenses"
     children:
       - title: "Eula"
         url: /docs/eula/
       - title: "Open Source"
         url: /docs/open-source/
-  - title: META
+  - title: "Meta"
     children:
       - title: "Privacy Policy"
         url: /docs/privacy-policy/
